@@ -74,4 +74,4 @@ echo "                     C Compiler: $CC"
 echo "                       CPPFLAGS: $CPPFLAGS"
 echo "                         CFLAGS: $CFLAGS"
 echo "                        LDFLAGS: $LDFLAGS"
-echo "                           LIBS: $LIBS'
+echo "                           LIBS: $LIBS"
